@@ -1,0 +1,18 @@
+$warning: #fdff00;  
+
+// Import all of Bootstrap's CSS
+@import "bootstrap";
+
+.navbar-nav {
+    align-items: center;
+  }
+
+a {
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+}
+
+.carousel-item img {
+    height: 850px;
+    object-fit: cover;
+}
